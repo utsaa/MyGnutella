@@ -1,0 +1,197 @@
+For peer id 3 heart beat clients started for 30001
+For peer id 3 heart beat clients started for 30004
+For peer id 3 heart beat clients started for 30007
+Clien is not present for 2
+Clien is not present for 4
+Clien is not present for 7
+For peer id 3 Connected peers are []
+Inside the size 0
+breaking peer loop
+Connected nodes are [1, 5]
+For peer id 3 heart beat clients started for 30000
+For peer id 3 heart beat clients started for 30005
+For peer id 3 Connected peers are [1, 5]
+Inside the size 0
+breaking peer loop
+Connected nodes are [1, 5]
+For peer id 3 heart beat clients started for 30000
+For peer id 3 heart beat clients started for 30005
+For peer id 3 Connected peers are [1, 5]
+Inside the size 0
+breaking peer loop
+Connected nodes are [1, 5]
+For peer id 3 heart beat clients started for 30000
+For peer id 3 heart beat clients started for 30005
+For peer id 3 Connected peers are [1, 5]
+Inside the size 0
+breaking peer loop
+Connected nodes are [5, 1]
+For peer id 3 heart beat clients started for 30005
+For peer id 3 heart beat clients started for 30000
+For peer id 3 Connected peers are [5, 1]
+Inside the size 0
+breaking peer loop
+Connected nodes are [5, 1]
+For peer id 3 heart beat clients started for 30005
+For peer id 3 heart beat clients started for 30000
+For peer id 3 Connected peers are [5, 1]
+Inside the size 0
+breaking peer loop
+Connected nodes are [5, 1, 2]
+For peer id 3 heart beat clients started for 30005
+For peer id 3 heart beat clients started for 30000
+For peer id 3 heart beat clients started for 30001
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+For peer id 3 Connected peers are [5, 1, 2]
+equest for 3
+Heartbeatclient got request for 3
+present became true
+Port chosen for supernode5102
+Got allNodes [5, 3, 1, 2] for port 5102
+Heartbeatclient got request for 3
+Heartbeatclient got request for 3
+present became true
+Port chosen for supernode5100
+Got allNodes [5, 3, 1, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 3, 1, 2] for port 5101
+Heartbeatclient got request for 3
+Heartbeatclient got request for 3
+present became true
+Heartbeatclient got request for 3
+Heartbeatclient got request for 3
+present became true
+Port chosen for supernode5102
+Got allNodes [5, 3, 1, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 3, 1, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 3, 1, 2] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 3, 1, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 3, 1, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 2, 3, 1] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 2, 3, 1] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 2, 3, 1] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 2, 3, 1] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 2, 3, 1] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 2, 3, 1] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 2, 3, 1] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 2, 3, 1] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 2, 3, 1] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 2, 3, 1] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 2, 3, 1] for port 5100
+Port chosen for supernode5101
+Got allNodes [5, 2, 3, 1] for port 5101
+Port chosen for supernode5102
+Got allNodes [5, 2, 3, 1] for port 5102
+Port chosen for supernode5100
+Got allNodes [5, 2, 3, 1] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 2, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 2, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 2, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 2, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 2, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 2, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 2, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 2, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 2, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 2, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 2, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 3, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 3, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 3, 2] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 3, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 3, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 3, 2] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 3, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 3, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 3, 2] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 3, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 3, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [1, 5, 3, 2] for port 5101
+Port chosen for supernode5102
+Got allNodes [1, 5, 3, 2] for port 5102
+Port chosen for supernode5100
+Got allNodes [1, 5, 3, 2] for port 5100
+Port chosen for supernode5101
+Got allNodes [2, 1, 5, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [2, 1, 5, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [2, 1, 5, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [2, 1, 5, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [2, 1, 5, 3] for port 5102
+Port chosen for supernode5100
+Got allNodes [2, 1, 5, 3] for port 5100
+Port chosen for supernode5101
+Got allNodes [2, 1, 5, 3] for port 5101
+Port chosen for supernode5102
+Got allNodes [2, 1, 5, 3] for port 5102
